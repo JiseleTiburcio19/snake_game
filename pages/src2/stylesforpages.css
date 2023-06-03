@@ -1,0 +1,104 @@
+﻿
+
+body {
+    background-color: black;
+    font-family: 'Cabin', sans-serif;
+    width: 450px;
+    height: 400px;
+}
+
+
+
+
+
+.sites-title {
+    color: deeppink;
+    position: relative;
+    top: 20px;
+    bottom: 30px;
+    left: 470px;
+    font-size: 70px;
+}
+
+
+
+
+.music {
+    padding: 20px;
+    top: 30px;
+    right: 500px;
+
+}
+
+.Music-site {
+    position: relative;
+    top: 50px;
+    bottom: 20px;
+    left: 140px;
+    font-size: 40px;
+}
+
+.music-image {
+    position: relative;
+    left: 50px;
+    top: 40px;
+    width: 350px;
+    height: 250px;
+}
+
+
+.planet-store {
+    padding: 20px;
+}
+
+
+.planet-store-site {
+    position: relative;
+    bottom: 375px;
+    left: 500px;
+    font-size: 40px;
+}
+
+
+
+.planet-store-image {
+    position: relative;
+    bottom: 380px;
+    left: 495px;
+    width: 300px;
+    height: 250px;
+}
+
+.inkcloud {
+        top: 30px;
+    padding: 20px;
+
+}
+
+.Inkcloud-ecommerce {
+    position: relative;
+    bottom: 795px;
+    left: 950px;
+    font-size: 40px;
+}
+
+
+
+.inkcloud-image {
+    position: relative;
+    left: 900px;
+    bottom: 800px;
+    width: 350px;
+    height: 250px;
+}
+
+
+/*css for game_site.html*/
+
+.mole-icon {
+    position: relative;
+    left: 50px;
+    top: 40px;
+    width: 350px;
+    height: 250px;
+}
